@@ -1,17 +1,11 @@
 ![](https://img.shields.io/github/followers/pravinknr?label=Follow%40pravinknr&style=social)
-![](https://img.shields.io/github/forks/pravinknr/
-Natural-Language-Processing-NLP-Python?label=Fork&style=social)
-![](https://img.shields.io/github/stars/pravinknr/
-Natural-Language-Processing-NLP-Python?style=social)
-![](https://img.shields.io/github/watchers/pravinknr/
-Natural-Language-Processing-NLP-Python?style=social)
+![](https://img.shields.io/github/forks/pravinknr/Natural-Language-Processing-NLP-Python?label=Fork&style=social)
+![](https://img.shields.io/github/stars/pravinknr/Natural-Language-Processing-NLP-Python?style=social)
+![](https://img.shields.io/github/watchers/pravinknr/Natural-Language-Processing-NLP-Python?style=social)
 ![](https://img.shields.io/github/issues/pravinknr/DataScience_R_Codes)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://pravinknr.github.io/
-Natural-Language-Processing-NLP-Python/)]
-![](https://img.shields.io/github/repo-size/pravinknr/
-Natural-Language-Processing-NLP-Python)
-![](https://img.shields.io/github/languages/code-size/pravinknr/
-Natural-Language-Processing-NLP-Python)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://pravinknr.github.io/Natural-Language-Processing-NLP-Python/)]
+![](https://img.shields.io/github/repo-size/pravinknr/Natural-Language-Processing-NLP-Python)
+![](https://img.shields.io/github/languages/code-size/pravinknr/Natural-Language-Processing-NLP-Python)
 
 
 # Natural-Language-Processing-NLP-Python
